@@ -62,7 +62,7 @@
       "type": "framework",
       "optional": true,
       "owner": "platformio",
-      "version": "https://github.com/maxgerhardt/framework-arduinoadafruitnrf52-seeed.git"
+      "version": "https://github.com/BiotascapeLLC/framework-arduinoadafruitnrf52-seeed"
     },
     "framework-arduinonordicnrf5": {
       "type": "framework",
