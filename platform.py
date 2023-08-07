@@ -42,7 +42,7 @@ class Nordicnrf52Platform(PlatformBase):
                         "package"] = "framework-arduinoadafruitnrf52-seeed"
                 else:
                     self.frameworks["arduino"][
-                        "package"] = "framework-arduinoadafruitnrf52"
+                        "package"] = "framework-arduinoadafruitnrf52-seeed"
                 self.packages["framework-cmsis"]["optional"] = False
                 self.packages["tool-adafruit-nrfutil"]["optional"] = False
 
